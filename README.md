@@ -1,7 +1,7 @@
 PennFluidsCRG
 =============
 
-**Important:** Check out the "Wiki" link above!
+**Important:** Check out the "Wiki" tab above!
 
 These are some example IPython Notebooks for us to share as we learn. GitHub is like Dropbox, but better
 for passing around code and managing shared projects, because we get a high level of control over
