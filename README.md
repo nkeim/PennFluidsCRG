@@ -7,7 +7,8 @@ These are some example IPython Notebooks for us to share as we learn. GitHub is 
 for passing around code and managing shared projects, because we get a high level of control over
 whether our edits affect the rest of the group, without having to manually copy files or keep track of old versions.
 There's a bit of a learning curve, but once you "get it," you'll be amazed at how it simplifies collaboration.
-The free GitHub client for Mac makes this even easier.
+
+The free GitHub client for Mac makes this even easier. Check out the "Clone in Mac" button above.
 
 The repository you see is for general-purpose teaching and learning. If you sign up for a free GitHub account
 and tell me your username (please do!), I can give you permission to upload your own changes to it and edit the wiki.
